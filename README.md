@@ -1,1 +1,1 @@
-# flash-gordon
+# MERN-GQL-Boilerplate
